@@ -40,7 +40,7 @@
             "category": "feature",
             "icon": {
                 "name": "fas fa-edit",
-                "backgroundColor": "##1199ee",
+                "backgroundColor": "#1199ee",
                 "color": "#fff"
             }
         },
